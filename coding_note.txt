@@ -1,0 +1,6 @@
+Note file
+
+1. Find some data with python crawler
+2. Sort data by category of brands
+3. Save it to database
+
